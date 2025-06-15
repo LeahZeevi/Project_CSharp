@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Sale>
+    <SaleId>11</SaleId>
+    <ProductId>1</ProductId>
+    <CountForSale>2</CountForSale>
+    <FinalPrice>35</FinalPrice>
+    <IsForAll>true</IsForAll>
+    <DateStartSale>2025-05-18T16:43:17.6628256+03:00</DateStartSale>
+    <DateEndSale>2025-05-25T16:43:17.6650226+03:00</DateEndSale>
+    <IsForAllSale>false</IsForAllSale>
+  </Sale>
+  <Sale>
+    <SaleId>22</SaleId>
+    <ProductId>2</ProductId>
+    <CountForSale>2</CountForSale>
+    <FinalPrice>55</FinalPrice>
+    <IsForAll>true</IsForAll>
+    <DateStartSale>2025-05-18T16:43:17.8088852+03:00</DateStartSale>
+    <DateEndSale>2025-06-17T16:43:17.8088934+03:00</DateEndSale>
+    <IsForAllSale>false</IsForAllSale>
+  </Sale>
+  <Sale>
+    <SaleId>33</SaleId>
+    <ProductId>3</ProductId>
+    <CountForSale>1</CountForSale>
+    <FinalPrice>17.5</FinalPrice>
+    <IsForAll>true</IsForAll>
+    <DateStartSale>2025-05-18T16:43:17.9270326+03:00</DateStartSale>
+    <DateEndSale>2025-06-07T16:43:17.9270399+03:00</DateEndSale>
+    <IsForAllSale>false</IsForAllSale>
+  </Sale>
+  <Sale>
+    <SaleId>44</SaleId>
+    <ProductId>4</ProductId>
+    <CountForSale>3</CountForSale>
+    <FinalPrice>15.5</FinalPrice>
+    <IsForAll>true</IsForAll>
+    <DateStartSale>2025-05-18T16:43:18.0345886+03:00</DateStartSale>
+    <DateEndSale>2025-06-27T16:43:18.0345975+03:00</DateEndSale>
+    <IsForAllSale>false</IsForAllSale>
+  </Sale>
+</ArrayOfSale>

@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <CustomerId>214943045</CustomerId>
+    <CustomerName>מיכל אפשטיין</CustomerName>
+    <Adress>פוניבז 8</Adress>
+    <CustomerPhone>548599390</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>215698741</CustomerId>
+    <CustomerName>שירה כהן</CustomerName>
+    <Adress>רימונים 20</Adress>
+    <CustomerPhone>527165072</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>312546978</CustomerId>
+    <CustomerName>מירב לב</CustomerName>
+    <Adress>ילדי אוסלו 9</Adress>
+    <CustomerPhone>504142002</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>24956879</CustomerId>
+    <CustomerName>אפרת מכאלוב</CustomerName>
+    <Adress>התקומה 88</Adress>
+    <CustomerPhone>548495622</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>24985652</CustomerId>
+    <CustomerName>דוד אלבז</CustomerName>
+    <Adress>חפץ חיים 16</Adress>
+    <CustomerPhone>548495632</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>214658978</CustomerId>
+    <CustomerName>יעל שחר</CustomerName>
+    <Adress>הזית 101 </Adress>
+    <CustomerPhone>566060563</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>315313152</CustomerId>
+    <CustomerName>יעקוב ורדי</CustomerName>
+    <Adress>העצמאות 67</Adress>
+    <CustomerPhone>527165072</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>315698545</CustomerId>
+    <CustomerName>יאיר בן-הרוש</CustomerName>
+    <Adress>השלום 5</Adress>
+    <CustomerPhone>556798564</CustomerPhone>
+  </Customer>
+  <Customer>
+    <CustomerId>215698574</CustomerId>
+    <CustomerName>יוסף שי</CustomerName>
+    <Adress>רשי 9</Adress>
+    <CustomerPhone>524569825</CustomerPhone>
+  </Customer>
+</ArrayOfCustomer>

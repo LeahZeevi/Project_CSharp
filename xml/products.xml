@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <ProductId>1</ProductId>
+    <ProductName>לאפה שאורמה</ProductName>
+    <CategoryName>MainCourse</CategoryName>
+    <Price>48</Price>
+    <AmountInStock>50</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>2</ProductId>
+    <ProductName>פטריה במילוי אסדו</ProductName>
+    <CategoryName>MainCourse</CategoryName>
+    <Price>70</Price>
+    <AmountInStock>20</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>3</ProductId>
+    <ProductName>צ'יפס</ProductName>
+    <CategoryName>Extras</CategoryName>
+    <Price>22</Price>
+    <AmountInStock>10</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>4</ProductId>
+    <ProductName>מוקפצים</ProductName>
+    <CategoryName>Extras</CategoryName>
+    <Price>35</Price>
+    <AmountInStock>30</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>5</ProductId>
+    <ProductName>כדורי פירה</ProductName>
+    <CategoryName>Extras</CategoryName>
+    <Price>25</Price>
+    <AmountInStock>33</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>6</ProductId>
+    <ProductName>טבעות בצל</ProductName>
+    <CategoryName>Extras</CategoryName>
+    <Price>30</Price>
+    <AmountInStock>40</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>7</ProductId>
+    <ProductName>קישואים מאודים</ProductName>
+    <CategoryName>Extras</CategoryName>
+    <Price>18</Price>
+    <AmountInStock>28</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>8</ProductId>
+    <ProductName>גלידת קרמל</ProductName>
+    <CategoryName>Desserts</CategoryName>
+    <Price>25</Price>
+    <AmountInStock>30</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>9</ProductId>
+    <ProductName>גלידת הבית</ProductName>
+    <CategoryName>Desserts</CategoryName>
+    <Price>25</Price>
+    <AmountInStock>18</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>10</ProductId>
+    <ProductName>חצילים</ProductName>
+    <CategoryName>Salads</CategoryName>
+    <Price>15</Price>
+    <AmountInStock>30</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>12</ProductId>
+    <ProductName>סלט ישראלי</ProductName>
+    <CategoryName>Salads</CategoryName>
+    <Price>15</Price>
+    <AmountInStock>30</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>13</ProductId>
+    <ProductName>חמוצים</ProductName>
+    <CategoryName>Salads</CategoryName>
+    <Price>15</Price>
+    <AmountInStock>30</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>14</ProductId>
+    <ProductName>קולה זירו</ProductName>
+    <CategoryName>Driks</CategoryName>
+    <Price>12</Price>
+    <AmountInStock>45</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>15</ProductId>
+    <ProductName>קולה רגיל</ProductName>
+    <CategoryName>Driks</CategoryName>
+    <Price>12</Price>
+    <AmountInStock>45</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>16</ProductId>
+    <ProductName>ספרייט דיאט</ProductName>
+    <CategoryName>Driks</CategoryName>
+    <Price>12</Price>
+    <AmountInStock>45</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>17</ProductId>
+    <ProductName>ספרייט רגיל</ProductName>
+    <CategoryName>Driks</CategoryName>
+    <Price>12</Price>
+    <AmountInStock>45</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>18</ProductId>
+    <ProductName>מים בטעמים</ProductName>
+    <CategoryName>Driks</CategoryName>
+    <Price>12</Price>
+    <AmountInStock>45</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>11</ProductId>
+    <ProductName>סלט איטלקי</ProductName>
+    <CategoryName>Salads</CategoryName>
+    <Price>15</Price>
+    <AmountInStock>29</AmountInStock>
+  </Product>
+  <Product>
+    <ProductId>123</ProductId>
+    <ProductName>גלידה אמריקאית</ProductName>
+    <CategoryName>Desserts</CategoryName>
+    <Price>12.9</Price>
+    <AmountInStock>13</AmountInStock>
+  </Product>
+</ArrayOfProduct>

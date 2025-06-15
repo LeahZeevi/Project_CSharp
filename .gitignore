@@ -1,0 +1,36 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+Generated_Code/
+
+# Visual Studio files
+.vs/
+
+# Rider IDE files
+.idea/
+
+# DotCover
+*.dotCover
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+Thumbs.db
